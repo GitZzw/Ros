@@ -1,6 +1,6 @@
 ## makefile学习笔记  
 
-> [参考资料makefile]:(https://tieba.baidu.com/p/591519800?pn=0)
+> [参考](https://tieba.baidu.com/p/591519800?pn=0)
 
 #### 1.什么是makefile
 >
