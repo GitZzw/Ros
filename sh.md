@@ -1,3 +1,6 @@
+## .sh的一个demo
+
+```
 #!/bin/bash
 ### BEGIN INIT INFO
 # Provides: test
@@ -20,3 +23,4 @@ python3 /home/gf/zzw/test_ws/src/test_projects/scripts/yolo_client.py & sleep 15
 
 rosrun rosrun test_node test_node_time
 exit 0
+```
