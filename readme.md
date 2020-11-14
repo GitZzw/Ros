@@ -19,3 +19,9 @@
 
 > 对于cpp文件
   在Cmamkelist里修改add_excutable
+
+
+#### 3.ros info throttle 控制输出流频率(埋坑)
+
+
+#### 4.px4切offboard短时间内会上锁，所以在起飞前不能做太多其他延时逻辑
