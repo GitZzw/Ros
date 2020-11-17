@@ -28,3 +28,13 @@
 
 
 #### 5.命令行操作文件.sh的参考写法见sh.md
+
+
+#### 6.windows下文件批量重命名的方法(linux下直接用系统的rename工具即可)
+> [参考](https://www.cnblogs.com/dirgo/p/11167968.html)
+
+> 在excel中生成一列A1原文件的名字(注意加引号)  
+  在第二列B1生成要更改文件的名字(注意加引号)
+  在第三列C1中用excel函数="ren "&A1&" "&B1
+  复制第三列到txt文件中，改名为rename.bat
+  然后执行批处理文件.bat即可
