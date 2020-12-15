@@ -45,4 +45,5 @@
 #### 7.windows更改右键快捷cmd的方法
 > [参考](https://blog.csdn.net/cxrsdn/article/details/84538767)
 
-> 
+> 将以下文件保存为.reg运行即可  
+  https://github.com/GitZzw/Ros/blob/master/cmd.txt
