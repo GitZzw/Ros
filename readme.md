@@ -33,6 +33,8 @@
 #### 6.windows下文件批量重命名的方法(linux下直接用系统的rename工具即可)
 > [参考](https://www.cnblogs.com/dirgo/p/11167968.html)
 
+> https://github.com/GitZzw/Ros/blob/master/rename.xlsx
+
 > 在excel中生成一列A1原文件的名字(注意加引号)   
   在第二列B1生成要更改文件的名字(注意加引号)  
   在第三列C1中用excel函数="ren "&A1&" "&B1  
@@ -42,3 +44,5 @@
 
 #### 7.windows更改右键快捷cmd的方法
 > [参考](https://blog.csdn.net/cxrsdn/article/details/84538767)
+
+> 
