@@ -38,3 +38,7 @@
   在第三列C1中用excel函数="ren "&A1&" "&B1  
   复制第三列到txt文件中，改名为rename.bat  
   然后执行批处理文件.bat即可  
+
+
+#### 7.windows更改右键快捷cmd的方法
+> [参考](https://blog.csdn.net/cxrsdn/article/details/84538767)
